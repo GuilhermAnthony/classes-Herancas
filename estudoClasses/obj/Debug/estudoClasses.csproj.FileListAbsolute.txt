@@ -1,0 +1,7 @@
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\bin\Debug\estudoClasses.exe.config
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\bin\Debug\estudoClasses.exe
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\bin\Debug\estudoClasses.pdb
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\obj\Debug\estudoClasses.csproj.AssemblyReference.cache
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\obj\Debug\estudoClasses.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\obj\Debug\estudoClasses.exe
+C:\Users\guilherme.anthony\source\repos\estudoClasses\estudoClasses\obj\Debug\estudoClasses.pdb
